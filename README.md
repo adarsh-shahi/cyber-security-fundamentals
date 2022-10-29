@@ -10,4 +10,4 @@ Security rests on confidentiality, authenticity, integrity, and availability
 
 # Security Layers:
 
-Screenshot from 2022-10-29 20-58-46.png
+![Screenshot from 2022-10-29 20-58-46.png]
