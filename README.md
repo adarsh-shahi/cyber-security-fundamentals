@@ -109,3 +109,10 @@ This security mechanism is achieved by adding digital data that is not visible t
 
 ## 2.Authorization
 
+    Authorization is a process by which a server determines if the client has permission to use a resource or access a file.
+    Authorization is usually coupled with authentication so that the server has some concept of who the client is that is requesting access.
+    The type of authentication required for authorization may vary; passwords may be required in some cases but not in others.
+    In some cases, there is no authorization; any user may be use a resource or access a file simply by asking for it. Most of the web pages on the             Internet require no authentication or authorization.
+
+
+
