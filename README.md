@@ -72,20 +72,27 @@ Asymmetric Key Encryption is based on public and private key encryption techniqu
 
 Types of Security Mechanisms
 Types of Security Mechanism are :
-Encipherment :
+
+1. Encipherment :
 This security mechanism deals with hiding and covering of data which helps data to become confidential. It is achieved by applying mathematical calculations or algorithms which reconstruct information into not readable form. It is achieved by two famous techniques named Cryptography and Encipherment. Level of data encryption is dependent on the algorithm used for encipherment.
-Access Control :
+
+2. Access Control :
 This mechanism is used to stop unattended access to data which you are sending. It can be achieved by various techniques such as applying passwords, using firewall, or just by adding PIN to data.
-Notarization :
+
+3. Notarization :
 This security mechanism involves use of trusted third party in communication. It acts as mediator between sender and receiver so that if any chance of conflict is reduced. This mediator keeps record of requests made by sender to receiver for later denied.
-Data Integrity :
+
+4. Data Integrity :
 This security mechanism is used by appending value to data to which is created by data itself. It is similar to sending packet of information known to both sending and receiving parties and checked before and after data is received. When this packet or data which is appended is checked and is the same while sending and receiving data integrity is maintained.
-Authentication exchange :
+
+5. Authentication exchange :
 This security mechanism deals with identity to be known in communication. This is achieved at the TCP/IP layer where a two-way handshaking mechanism is used to ensure data is sent or not
+
 6. Traffic Padding − The insertion of bits into gaps in an information flow is known as traffic padding. This provide to counter traffic analysis attempts.
-Routing Control − Routing control allows selection of specific physically secure routes for specific data transmission and enables routing changes, particularly when a gap of security is suspected.
-Digital Signature :
-This security mechanism is achieved by adding digital data that is not visible to eyes. It is form of electronic signature which is added by sender which is checked by receiver electronically. This mechanism is used to preserve data which is not more confidential but sender’s identity is to be notified.
+
+7. Routing Control − Routing control allows selection of specific physically secure routes for specific data transmission and enables routing changes, particularly when a gap of security is suspected.
+
+8. Digital Signature - This security mechanism is achieved by adding digital data that is not visible to eyes. It is form of electronic signature which is added by sender which is checked by receiver electronically. This mechanism is used to preserve data which is not more confidential but sender’s identity is to be notified.
 
 # Categories of Security Services
  ## 1. Authentication 
