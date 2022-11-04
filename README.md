@@ -70,7 +70,7 @@ Encryption is a process to change the form of any message in order to protect it
 # Asymmetric Key Encryption
 Asymmetric Key Encryption is based on public and private key encryption techniques. It uses two different key to encrypt and decrypt the message. It is more secure than the symmetric key encryption technique but is much slower.
 
-Types of Security Mechanisms
+
 Types of Security Mechanism are :
 
 1. Encipherment :
