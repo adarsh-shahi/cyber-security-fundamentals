@@ -121,5 +121,9 @@ This security mechanism deals with identity to be known in communication. This i
     The type of authentication required for authorization may vary; passwords may be required in some cases but not in others.
     In some cases, there is no authorization; any user may be use a resource or access a file simply by asking for it. Most of the web pages on the             Internet require no authentication or authorization.
 
+# Hashing
 
+![Screenshot from 2022-12-03 19-40-25](https://user-images.githubusercontent.com/60755364/205445187-373a5483-1efe-42df-abfc-d7cb57dabcd3.png)
 
+![Screenshot from 2022-12-03 19-40-33](https://![Screenshot from 2022-12-03 19-40-45](https://user-images.githubusercontent.com/60755364/205445200-c4d66c5b-dde7-4327-a5f2-ac60501455bf.png)
+user-images.githubusercontent.com/60755364/205445195-af93b143-12ec-4792-8a85-af26259131b4.png)
